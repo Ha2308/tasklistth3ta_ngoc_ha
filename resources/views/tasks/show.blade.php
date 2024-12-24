@@ -10,3 +10,18 @@
         <a href="{{ route('tasks.index') }}" class="btn btn-secondary">Quay lại</a>
     </div>
 @endsection
+@csrf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
